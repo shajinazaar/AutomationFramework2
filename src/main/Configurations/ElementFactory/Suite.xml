@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Suite>
+
+
+    <Element keyword="userName_input" locator="//*[@id='UserName']"/>
+    <Element keyword="password_input" locator="//*[@id='Password']"/>
+    <Element keyword="submit_button" locator="//*[@id='btn_Submit']"/>
+
+</Suite>
